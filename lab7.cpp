@@ -1,4 +1,4 @@
-//this is lab 7 ex1
+//this is lab 7 ex2
 #include <iostream>
 
 int main() {
